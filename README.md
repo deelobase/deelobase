@@ -41,8 +41,8 @@ curl -XPOST -H "Content-type: application/json" -d '{'email' : 'john@example.com
 Result
 ```json
 {
-'success' : true,
-'key' : 'GENERATED_API_KEY_HERE'
+"success" : true,
+"key" : "GENERATED_API_KEY_HERE"
 }
 ```
 Note:
