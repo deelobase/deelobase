@@ -5,24 +5,26 @@
 
 
 
-**Table of Contents**
+## Table of Contents
 
-[TOCM]
+- [About](#about "About")
+- [Features](#features "Features")
+	- [Database](#database "Database")
+	- [Coud Code](#cloud-code "Coud Code")
 
-[TOC]
-
-###About
+### About
 Deelobase is a serverless NoSQL database & backend as a service that is fast, scalable, and easy to use!
 
 #### Features
 
-#####Database
+##### Database
 
 - Write queries natively using JavaScript.
 - Native JavaScript data types.
 - Hooks.
 - Can be used as a fast key-value data store.
 
-#####Cloud Code
+##### Cloud Code
 - Write backend logic using JavaScript.
 - Integrates seamlessly with Database.
+
